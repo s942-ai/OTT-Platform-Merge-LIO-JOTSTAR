@@ -5,23 +5,66 @@ This project is a submission for the **Codebasics Resume Project Challenge #14**
 ---
 
 ## 📑 **Table of Contents**  
-- [🚀 Project Overview](#project-overview)  
-- [❓ Problem Statement](#problem-statement)  
-- [🏢 About Goodcabs](#about-goodcabs)  
-- [🛠️ Tools & Technologies](#tools--technologies)  
-- [📈 Dashboards](#dashboards)  
+- [🚀 Project Overview](#Project-overview)  
+- [❓ Problem Statement](#Problem-statement)  
+- [🏢 About LioCinema & Jotstar](#About-LioCinema- &- Jotstar)  
+- [🛠️ Tools & Technologies](#tools--technologies)
+- [🎯 Project Objectives](#Project Objectives) 
 - [📊 Key Insights](#key-insights)  
 - [📂 Repository Contents](#repository-contents)  
 - [📋 Steps Followed](#steps-followed)  
 - [💡 Recommendations](#recommendations)   
 - [📜 Live Dashboard](#live-dashboard)  
-- [📝 Contact](#contact)  
+- [📝 Contact](#contact)
+
+ ---
+
+## 🚀 Project Overview
+
+This project focuses on analysing the potential merger between Lio, a leading Indian telecom provider, and Jotstar, one of India’s most prominent streaming platforms.
+By combining LioCinema’s large subscriber base with Jotstar’s diverse content library, the goal is to transform India’s digital streaming experience.
+The analysis covers January to November 2024 data from both platforms to evaluate performance, content consumption, subscriber behaviour, and subscription trends.
+The insights generated will help management make data-driven decisions for post-merger strategies, aiming to position Lio–Jotstar as the leading OTT platform in India.
 
 ---
 
 ## 📌 Problem Statement
 
-With the OTT industry booming in India, Lio aims to diversify by merging with Jotstar to create a dominant market presence. The primary goal was to assess and optimize the merged entity’s performance using a data-driven approach.
+The Lio management team requires a comprehensive understanding of both platforms’ current performance before finalising the merger.
+They need detailed insights into:
+
+Content library strengths and gaps.
+
+Subscriber growth and demographics.
+
+Inactivity trends by segment.
+
+Subscription upgrade/downgrade patterns.
+
+Content consumption behaviour and preferences.
+
+Without these insights, it will be challenging to create a unified post-merger strategy that optimises content offerings, increases engagement, and maximises revenue potential.
+
+---
+
+## 🏢 About Lio & Jotstar
+
+Lio: A leading telecommunications company in India, operating LioCinema, an OTT platform serving millions of users.
+
+Jotstar: A top-tier streaming platform with a diverse content catalogue, catering to varied regional and international tastes.
+
+Merger Vision: To merge LioCinema’s extensive reach with Jotstar’s content variety, delivering unmatched entertainment and connectivity.
+---
+
+## 🛠️ Tools & Technologies
+
+Power BI Desktop – For interactive dashboard design and DAX-based analysis.
+
+DAX (Data Analysis Expressions) – For creating custom measures and calculations.
+
+Power Query – For data cleaning, transformation, and integration.
+
+Excel – For preliminary analysis and data verification.
 
 ---
 
@@ -33,42 +76,21 @@ With the OTT industry booming in India, Lio aims to diversify by merging with Jo
 - 🔍 Study user behavior on subscription upgrades, downgrades, and churn  
 - 🔍 Provide revenue insights and strategic business recommendations  
 
----
+--
 
-## 📊 Dashboard Overview
+## 📈 Key Insights
 
-The Power BI dashboard includes the following pages:
-
-- **Overview** – Snapshot of key business metrics  
-- **User Trends** – Growth, retention, and engagement insights  
-- **Content Library** – Diversity by type, genre, and language  
-- **Engagement Analysis** – Device/region-wise viewing behavior  
-- **Revenue Analysis** – Subscription revenue, churn, and leakage  
-- **Quick Compare** – LioCinema vs. Jotstar performance comparison  
-
----
-
-## 📈 Key Highlights
-
-- Analyzed **228K+ users** across platforms  
+- Analyzed **228K+ users** across Both platforms  
 - Identified **61% inactive users** in Tier 2/3 cities  
 - Detected **15% revenue leakage** due to premium downgrades  
+---
 
 ### ✅ Strategic Recommendations:
 
 - Implement **AI-based personalization**  
 - Expand **regional content offerings**  
-- Improve visibility of the **upgrade/downgrade funnel**  
-
----
-
-## 🔧 Tools & Skills Used
-
-- **Power BI** – Visual analytics & storytelling  
-- **MySQL** – Data cleaning and exploratory analysis  
-- **CapCut** – Video editing for project presentation  
-
-**Key Concepts**: DAX, Data Modeling, Strategic Forecasting, User Segmentation
+- Improve visibility of the **upgrade/downgrade funnel**
+- Brand Ambassador popular among youth yet respected by older audiences.
 
 ---
 
