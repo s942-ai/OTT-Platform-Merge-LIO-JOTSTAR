@@ -7,15 +7,12 @@ This project is a submission for the **Codebasics Resume Project Challenge #14**
 ## 📑 **Table of Contents**  
 - [🚀 Project Overview](#Project-overview)  
 - [❓ Problem Statement](#Problem-statement)  
-- [🏢 About LioCinema & Jotstar](#About-LioCinema- &- Jotstar)  
+- [🏢 About LioCinema & Jotstar](#About-LioCinema-&-Jotstar)  
 - [🛠️ Tools & Technologies](#tools--technologies)
-- [🎯 Project Objectives](#Project Objectives) 
+- [🎯 Project Objectives](#Project-Objectives) 
 - [📊 Key Insights](#key-insights)  
-- [📂 Repository Contents](#repository-contents)  
-- [📋 Steps Followed](#steps-followed)  
 - [💡 Recommendations](#recommendations)   
 - [📜 Live Dashboard](#live-dashboard)  
-- [📝 Contact](#contact)
 
  ---
 
@@ -94,24 +91,9 @@ Excel – For preliminary analysis and data verification.
 
 ---
 
-## 🔗 Links
+## 🔗 Live Dashboard
 
 - 🌐 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmE3ZGViOTItM2UxNy00Njg3LThhNWEtNTBiMmNjMGIzOWZhIiwidCI6IjVjMGNmMWQwLTZhNjItNGY4Ny1iYWI2LWEwZGE1MmYwZTNmZiJ9)  
-- 💼 [LinkedIn Post](#) <!-- Replace with actual link -->
-- 🎥 [Video Presentation](#) <!-- Replace with actual link -->
+
 
 ---
-
-## 💡 Why This Project Matters
-
-Data plays a pivotal role in strategic decision-making during mergers. This analysis identifies monetization opportunities, mitigates churn, and enhances user engagement — paving the way for Lio-Jotstar's dominance in India’s OTT space.
-
----
-
-## 📬 Let's Connect!
-
-If you found this project insightful or have suggestions for improvement:
-
-- ⭐️ Star this repo  
-- 💬 Drop a comment or suggestion  
-- 🤝 Connect with me on [LinkedIn](#) <!-- Replace with your LinkedIn profile -->
