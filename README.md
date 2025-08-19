@@ -1,6 +1,6 @@
 # 🚀 Lio-Jotstar Merger Analysis 
 
-This project is a submission for the **Codebasics Resume Project Challenge #14**. It focuses on a simulated business case where **Lio**, a telecom giant, merges with **Jotstar**, a leading streaming platform. The goal is to analyze the merger's impact and deliver actionable insights using **Power BI** and **SQL**.
+This project is a submission for the **Codebasics Resume Project Challenge #14**. It focuses on a simulated business case where **LioCinema**, a telecom giant, merges with **Jotstar**, a leading streaming platform. The goal is to analyze the merger's impact and deliver actionable insights using **Power BI** and **SQL**.
 
 ---
 
@@ -18,7 +18,7 @@ This project is a submission for the **Codebasics Resume Project Challenge #14**
 
 ## 🚀 Project Overview
 
-This project focuses on analysing the potential merger between Lio, a leading Indian telecom provider, and Jotstar, one of India’s most prominent streaming platforms.
+This project focuses on analysing the potential merger between LioCinema, a leading Indian telecom provider, and Jotstar, one of India’s most prominent streaming platforms.
 By combining LioCinema’s large subscriber base with Jotstar’s diverse content library, the goal is to transform India’s digital streaming experience.
 The analysis covers January to November 2024 data from both platforms to evaluate performance, content consumption, subscriber behaviour, and subscription trends.
 The insights generated will help management make data-driven decisions for post-merger strategies, aiming to position Lio–Jotstar as the leading OTT platform in India.
@@ -77,9 +77,34 @@ Excel – For preliminary analysis and data verification.
 
 ## 📈 Key Insights
 
-- Analyzed **228K+ users** across Both platforms  
-- Identified **61% inactive users** in Tier 2/3 cities  
-- Detected **15% revenue leakage** due to premium downgrades  
+- **User Base**  
+  - LioCinema has **183K users** vs. Jotstar’s **44K**, showing a much larger scale.  
+  - Jotstar has a **higher % of paying users**, while LioCinema relies heavily on free users.  
+
+- **Content Mix**  
+  - LioCinema lacks **English** and some **regional languages** (Punjabi, Gujarati, Bengali).  
+  - Jotstar dominates **premium genres** (Action – 71%, Sci-Fi, Series).  
+  - LioCinema needs more **sports & trending content**.  
+
+- **Demographics**  
+  - **LioCinema** → Strong in **18–24 age group**, mostly **Tier-3 cities**.  
+  - **Jotstar** → Strong in **25–34 age group**, mostly **Tier-1 cities**.  
+
+- **User Activity**  
+  - LioCinema has **3x more inactive users** compared to Jotstar.  
+  - Inactivity is highest among **18–24 users** in LioCinema (~49%).  
+
+- **Revenue**  
+  - Jotstar monetizes better: **72% paying users** (VIP + Premium).  
+  - LioCinema struggles with free-to-paid conversion (~41% paying).  
+  - Jotstar’s revenue **declined** from ₹7.7M (Jan) → ₹0.8M (Nov).  
+  - LioCinema’s revenue stayed **stable** at ₹1.3M–₹2.1M/month.  
+
+- **Upgrades & Downgrades**  
+  - Jotstar has a **5x higher upgrade rate** than LioCinema.  
+  - LioCinema downgrade spike: **18.65% in May 2024**.  
+  - Jotstar’s **VIP → Premium upgrade** is the strongest transition.  
+  - LioCinema upgrades are mostly **Free → Basic**, but fewer go **Basic → Premium**.  
 ---
 
 ### ✅ Strategic Recommendations:
